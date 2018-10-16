@@ -1,8 +1,36 @@
 body {
-	background-color: darkred;
+	background-color: #FFDAB9;
 }
 
-h1, p {
+h1 {
+	color: gray;
+	font-family: avenir next condensed;
+	text-align: center;
+}
+
+h3 {
 	color: gray;
 	font-family: arial;
+	text-align: left;
+}
+
+h5 {
+	color: gray;
+	font-family: arial;
+	text-align: center;
+	font-style: italic;
+}
+
+p {
+	color: gray;
+	font-family: arial;
+}
+
+ul {
+	color: gray;
+	font-family: arial;
+}
+
+a {
+	color: #228B22;
 }
