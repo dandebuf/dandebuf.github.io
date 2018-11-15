@@ -1,0 +1,102 @@
+* {
+	padding: 0;
+	margin:0;
+}
+
+img {
+	width: 200px;
+}
+
+.wrapper {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+header {
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#aboutus {
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#danpic {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#danbio {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#sophpic {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#sophbio {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#lukepic {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#lukebio {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#mattpic {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#mattbio {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#ourwork {
+	background-color: #FFDAB9;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#ourworktitle {
+	background-color: #FFB6C1;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.project {
+	background-color: #DEB887;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+
+
