@@ -3,100 +3,143 @@
 	margin:0;
 }
 
-img {
-	width: 200px;
+header img {
+	width: 100%;
+	display: inline;
+	margin-left: 50px;
+}
+
+p {
+	display: inline;
+}
+
+body, h1, h2, h3, h4, h5 {
+	font-family: 'Roboto', sans-serif;
+
 }
 
 .wrapper {
-	background-color: #E8C66A;
-    border: 1px black solid;
     padding: 20px;
 }
 
 header {
-	background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
+	background-color: #fff;
+	padding-bottom: 100px;
 }
+
+.headerleft {
+	display: inline;
+	float: left;
+	width: 50%;
+}
+
+.headerright {
+	display: inline;
+	float: right;
+	width: 50%;
+}
+
+header h1 {
+	padding: 39px 20px 14px 100px;
+}
+
 
 #aboutus {
-	background-color: #FFC675;
-    border: 1px black solid;
-    padding: 20px;
+	background-color: #fff;
+    font-size: 12px;
+    padding-bottom: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
 }
 
-#danpic {
-	background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
+#aboutus h4 {
+	font-size: 15px;
+	padding-bottom: 10px;
 }
 
-#danbio {
-	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
+#aboutus img {
+	float: left;
+	padding: 0px;
+	width: 100%
 }
 
-#sophpic {
-	background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
+#aboutus a {
+	padding-bottom: 1px;
+	text-decoration: none;
+	color: red;
+	line-height: 1.3em;
+	margin-left: 15px;
 }
 
-#sophbio {
-	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
+
+#aboutus a:hover {
+	border-bottom: 2px solid red;
 }
 
-#lukepic {
-	background-color: #E89C6C;
-    border: 1px black solid;
+.bio {
+	background-color: #fff;
     padding: 20px;
+    width: 9%;
+    float: left;
+    display: inline;
 }
 
-#lukebio {
-	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-#mattpic {
-	background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-#mattbio {
-	background-color: #FFE2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
 
 #ourwork {
-	background-color: #FFDAB9;
-    border: 1px black solid;
+	background-color: #fff;
     padding: 20px;
 }
 
+
+
 #ourworktitle {
-	background-color: #FFB6C1;
-    border: 1px black solid;
+	background-color: #fff;
     padding: 20px;
+    margin: 10px auto;
+}
+
+#ourwork h2 {
+	margin-left: auto;
+	min-width: auto;
+	text-align: center;
+}
+
+#ourwork img {
+	width: 100%;
+	display: inline;
 }
 
 .project {
-	background-color: #DEB887;
-    border: 1px black solid;
+	background-color: #fff;
     padding: 20px;
+    width: 30%;	
+    float: left;
 }
 
 footer {
-	background-color: #FF957E;
-    border: 1px black solid;
+	background-color: lightgray;
     padding: 20px;
+    text-align: center;
+}
+
+footer a {
+	padding-bottom: 1px;
+	text-decoration: none;
+	color: red;
 }
 
 
+footer a:hover {
+	border-bottom: 2px solid red;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
 
 
