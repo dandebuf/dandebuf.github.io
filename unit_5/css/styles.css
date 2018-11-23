@@ -25,6 +25,7 @@ body, h1, h2, h3, h4, h5 {
 header {
 	background-color: #fff;
 	padding-bottom: 100px;
+	padding-top: 60px;	
 }
 
 .headerleft {
@@ -47,7 +48,7 @@ header h1 {
 #aboutus {
 	background-color: #fff;
     font-size: 12px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     margin-left: 80px;
     margin-right: 80px;
 }
