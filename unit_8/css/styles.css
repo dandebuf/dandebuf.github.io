@@ -6,6 +6,7 @@
 
 body {
 	font-family: 'Roboto', sans-serif;
+	font-size: 11px;
 }
 
 .wrapper {
@@ -35,18 +36,19 @@ header img {
 header h1 {
 	padding: 50px 0px 14px 170px;
 	display: block;
+	font-size: 3em;
 }
 
 
 #aboutus {
-    font-size: 18px;
+    font-size: 1.5em;
     padding-bottom: 10px;
     width: 100%;
 }
 
 #aboutus h4 {
-	font-size: 17px;
 	padding-bottom: 10px;
+	font-size: 1.2em;
 }
 
 #aboutus img {
@@ -109,7 +111,7 @@ header h1 {
     display: inline-block;
     width: 29%;
     margin: 0 auto;
-    border: 1px solid red;
+    border: 0;
 }
 
 footer {
